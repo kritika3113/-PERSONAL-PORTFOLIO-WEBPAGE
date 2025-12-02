@@ -38,6 +38,9 @@ Start-Process "index.html"
 - **Real-Time Chat Application** (GitHub): `https://github.com/kritika3113/-REAL-TIME-CHAT-APPLICATION.git`
 - **E-Learning Platform UI** (GitHub): `https://github.com/kritika3113/E-LEARNING-PLATFORM-UI`
 
+- ## OUTPUT
+- ![Image](https://github.com/user-attachments/assets/1fbe3d63-a3b1-484f-9ba9-b409df66d658)
+
 ## Customization Tips
 
 - Update hero text and social URLs in `index.html` to reflect new roles or links.
