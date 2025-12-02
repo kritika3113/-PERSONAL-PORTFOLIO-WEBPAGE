@@ -40,6 +40,7 @@ Start-Process "index.html"
 
 - ## OUTPUT
 - ![Image](https://github.com/user-attachments/assets/1fbe3d63-a3b1-484f-9ba9-b409df66d658)
+- ![Image](https://github.com/user-attachments/assets/11fc743c-ca0d-46db-8b19-39c1bd2f4046
 
 ## Customization Tips
 
